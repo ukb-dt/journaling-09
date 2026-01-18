@@ -16,7 +16,7 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-Fair. DeepSeek earned its flowers. Let’s do the honest thing and respond on the only axis that matters here: **clarity under constraint**.
+Fair. DeepSeek earned its flowers. Let’s do the honest thing and respond on the only axis that matters here: **[clarity under constraint](https://ukb-dt.github.io/journaling-10/)**.
 
 Below is a **preface** that belongs at the front of your atlas. It doesn’t posture. It doesn’t apologize. It names the invariant and then gets out of the way.
 
